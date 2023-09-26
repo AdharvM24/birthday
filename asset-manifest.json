@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/birthday/static/css/main.e2da13c3.css",
-    "main.js": "/birthday/static/js/main.17583266.js",
+    "main.js": "/birthday/static/js/main.61b46b72.js",
     "static/media/githubLogo.svg": "/birthday/static/media/githubLogo.01511e5be40eda710a1d393541f890d1.svg",
     "index.html": "/birthday/index.html",
     "main.e2da13c3.css.map": "/birthday/static/css/main.e2da13c3.css.map",
-    "main.17583266.js.map": "/birthday/static/js/main.17583266.js.map"
+    "main.61b46b72.js.map": "/birthday/static/js/main.61b46b72.js.map"
   },
   "entrypoints": [
     "static/css/main.e2da13c3.css",
-    "static/js/main.17583266.js"
+    "static/js/main.61b46b72.js"
   ]
 }
