@@ -37,6 +37,7 @@ const Birthday = ({ name, day, month }) => {
         // Getting the Current Date
         const dateAtm = new Date();
 
+        
         // if the Birthday has passed
         // then set the Birthday countdown for next year
         let birthdayDay = new Date(currentYear, month - 1, day);
